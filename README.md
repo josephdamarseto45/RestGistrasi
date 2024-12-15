@@ -8,8 +8,12 @@ Sumber data: Dari User
 
 Tangkapan layar komponen penting produk: 
 
-![WhatsApp Image 2024-12-15 at 17 14 36_46d31b0e](https://github.com/user-attachments/assets/57b6f939-5dce-4759-9abe-5711b4127c52)
-![WhatsApp Image 2024-12-15 at 17 14 36_67f555e8](https://github.com/user-attachments/assets/919afe43-30eb-42b7-af8e-98772c77e21f)
-![WhatsApp Image 2024-12-15 at 17 14 37_669c1663](https://github.com/user-attachments/assets/839fe62b-216f-4434-b335-fc95cc5c52d1)
-![WhatsApp Image 2024-12-15 at 17 14 36_0301aa2f](https://github.com/user-attachments/assets/052d970f-18ea-4ce6-a0cc-a46eb53617d8)
+![WhatsApp Image 2024-12-16 at 06 23 59_3d4f8848](https://github.com/user-attachments/assets/2314d443-5e8a-4a1a-b3c0-6b1f2f7e5827)
+![WhatsApp Image 2024-12-16 at 06 24 00_86ad8326](https://github.com/user-attachments/assets/38a1078c-2440-476e-a45b-9c6719d81f99)
+
+![WhatsApp Image 2024-12-16 at 06 24 00_9554126b](https://github.com/user-attachments/assets/edc0c4b2-6c2b-4478-b429-760917ac00d7)
+![WhatsApp Image 2024-12-16 at 06 23 59_56b103e6](https://github.com/user-attachments/assets/228e8b9e-39eb-4cd8-b8de-f87b8d17be02)
+
+
+
 
