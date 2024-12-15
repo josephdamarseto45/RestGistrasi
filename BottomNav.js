@@ -39,15 +39,17 @@ export default function App() {
         tabBarIcon: ({ color }) => (
           <FontAwesomeIcon icon={faHouse} color={color} size={20} />
         ),}}/>
+
+<Tab.Screen name="Map" component={MapScreen}  options={{ 
+        tabBarIcon: ({ color }) => (
+          <FontAwesomeIcon icon={faMapPin} color={color} size={20} />
+        ),}}/>
         <Tab.Screen name="List" component={ListScreen}  options={{ headerShown: true,
         tabBarIcon: ({ color }) => (
           <FontAwesomeIcon icon={faUtensils} color={color} size={20} />
         ),}}/>
 
-      <Tab.Screen name="Map" component={MapScreen}  options={{ 
-        tabBarIcon: ({ color }) => (
-          <FontAwesomeIcon icon={faMapPin} color={color} size={20} />
-        ),}}/>
+      
 
       </Tab.Navigator>
     </NavigationContainer>

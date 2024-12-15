@@ -17,21 +17,14 @@ export default function HomePage() {
       </Text>
       
       <Text style={styles.title}>
-        Daftarkan Restomu!
+        Daftarkan Restomu! 
+      </Text>
+
+      <Text style={styles.title}>
+        Jadikan Restomu Terkenal! 
       </Text>
       
-      {/* Contact Information
-      <View style={styles.contactInfo}>
-        <Text style={styles.contact} onPress={() => Linking.openURL('tel:119')}>
-          Layanan Gawat Darurat Kesehatan: 119
-        </Text>
-        <Text style={styles.contact} onPress={() => Linking.openURL('tel:02188957805')}>
-          Layanan Pemadam Kebakaran: (021) 8895 7805
-        </Text>
-        <Text style={styles.contact} onPress={() => Linking.openURL('tel:+6281283957877')}>
-          Layanan Badan Penanggulangan Bencana Daerah (BPBD): +62 812 8395 7877
-        </Text>
-      </View> */}
+      
     </View>
   );
 }

@@ -1,67 +1,69 @@
 {
   "mahasiswa": [
     {
-      "id": "1",
-      "first_name": "Joseph",
-      "last_name": "Resto",
-      "email": "Pogung",
-      "class": "Pogung",
-      "gender": "Pogung",
-      "latitude": -7.7137693,
-      "longitude": 110.3278857
-    },
-    {
-      "id": "5",
-      "first_name": "Resto",
-      "last_name": "Josh",
-      "email": "Pogung",
-      "class": "Pogung",
-      "gender": "Pogung",
-      "latitude": -7.7248074,
-      "longitude": 110.6879624
-    },
-    {
-      "id": "1734254118118",
-      "category": "aaa",
-      "title": "aaa",
-      "report": "aaa",
+      "id": "1734290118298",
+      "category": "AW",
+      "title": "09.00-21.00",
+      "report": "Jakarta",
       "date": "2024-12-15",
       "location": {
-        "latitude": -6.2636298930313075,
-        "longitude": 106.8253288762279
+        "latitude": -6.237911115519239,
+        "longitude": 106.83848265072368
       }
     },
     {
-      "id": "1734254302178",
-      "category": "a",
-      "title": "a",
-      "report": "a",
+      "id": "1734290193836",
+      "category": "KFC",
+      "title": "09.00-21.00",
+      "report": "Jakarta",
       "date": "2024-12-15",
       "location": {
-        "latitude": -6.210098675264021,
-        "longitude": 106.8581187723633
+        "latitude": -6.271074273705821,
+        "longitude": 106.82137594099237
       }
     },
     {
-      "id": "1734255692077",
-      "category": "a",
-      "title": "a",
-      "report": "a",
+      "id": "1734290823036",
+      "category": "Pihha Zut",
+      "title": "09.00-21.00",
+      "report": "Jakarta",
       "date": "2024-12-15",
       "location": {
-        "latitude": -6.277840525472371,
-        "longitude": 106.8504989470049
+        "latitude": -6.232850816342051,
+        "longitude": 106.88008413133679
       }
     },
     {
-      "id": "1734256192952",
-      "category": "uduujs",
-      "title": "09000",
-      "report": "jsiqoaia",
+      "id": "1734291859944",
+      "category": "Domini Pizza",
+      "title": "09.00-21.00",
+      "report": "Jakarta",
       "date": "2024-12-15",
       "location": {
-        "latitude": -6.15770184748321,
-        "longitude": 106.74509886257886
+        "latitude": -6.186715117175822,
+        "longitude": 106.8364227142236
+      }
+    },
+    {
+      "id": "1734292689753",
+      "category": "Sate Ayam ",
+      "title": "17.00-21.00",
+      "report": "Tangerang",
+      "date": "2024-12-15",
+      "location": {
+        "latitude": -6.180485300806453,
+        "longitude": 106.66727350438492
+      }
+    },
+    {
+      "id": "1734292929609",
+      "category": "Sate Kambing",
+      "title": "17.00 - 21.00",
+      "report": "Bekasi",
+      "date": "2024-12-15",
+      "location": {
+        "latitude": -6.191592716094107,
+        "longitude": 106.97670583382563
       }
     }
   ]

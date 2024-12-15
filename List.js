@@ -32,9 +32,9 @@ const Createdata = () => {
             }
           >
             <View style={styles.card}>
-              <Text style={styles.category}>Kategori: {item.category}</Text>
-              <Text style={styles.title}>Judul Laporan: {item.title}</Text>
-              <Text style={styles.date}>Tanggal: {item.date}</Text>
+              <Text style={styles.category}>Nama Resto: {item.category}</Text>
+              <Text style={styles.title}>Jadwal Buka/Tutup: {item.title}</Text>
+              <Text style={styles.report}>Lokasi: {item.report}</Text>
             </View>
           </TouchableOpacity>
         )}
