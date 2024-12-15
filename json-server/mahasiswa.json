@@ -1,0 +1,68 @@
+{
+  "mahasiswa": [
+    {
+      "id": "1",
+      "first_name": "Joseph",
+      "last_name": "Resto",
+      "email": "Pogung",
+      "class": "Pogung",
+      "gender": "Pogung",
+      "latitude": -7.7137693,
+      "longitude": 110.3278857
+    },
+    {
+      "id": "5",
+      "first_name": "Resto",
+      "last_name": "Josh",
+      "email": "Pogung",
+      "class": "Pogung",
+      "gender": "Pogung",
+      "latitude": -7.7248074,
+      "longitude": 110.6879624
+    },
+    {
+      "id": "1734254118118",
+      "category": "aaa",
+      "title": "aaa",
+      "report": "aaa",
+      "date": "2024-12-15",
+      "location": {
+        "latitude": -6.2636298930313075,
+        "longitude": 106.8253288762279
+      }
+    },
+    {
+      "id": "1734254302178",
+      "category": "a",
+      "title": "a",
+      "report": "a",
+      "date": "2024-12-15",
+      "location": {
+        "latitude": -6.210098675264021,
+        "longitude": 106.8581187723633
+      }
+    },
+    {
+      "id": "1734255692077",
+      "category": "a",
+      "title": "a",
+      "report": "a",
+      "date": "2024-12-15",
+      "location": {
+        "latitude": -6.277840525472371,
+        "longitude": 106.8504989470049
+      }
+    },
+    {
+      "id": "1734256192952",
+      "category": "uduujs",
+      "title": "09000",
+      "report": "jsiqoaia",
+      "date": "2024-12-15",
+      "location": {
+        "latitude": -6.15770184748321,
+        "longitude": 106.74509886257886
+      }
+    }
+  ]
+}
